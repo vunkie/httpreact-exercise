@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Product 1",
+      "price": 100
+    },
+    {
+      "id": "2",
+      "name": "Product 2",
+      "price": 200
+    },
+    {
+      "id": "3",
+      "name": "Product 3",
+      "price": 300
+    },
+    {
+      "id": "9671",
+      "name": "Teste",
+      "price": "50"
+    },
+    {
+      "id": "8592",
+      "name": "Teclado",
+      "price": "120"
+    },
+    {
+      "id": "1324",
+      "name": "Mouse",
+      "price": "60"
+    },
+    {
+      "id": "445f",
+      "name": "Monitor",
+      "price": "500"
+    }
+  ]
+}
